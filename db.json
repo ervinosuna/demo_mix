@@ -5,35 +5,40 @@
     "name": "Anchoas",
     "price": 420,
     "description": "Pizza Anchoas",
-    "categoryId": 1
+    "categoryId": 1,
+    "returnCode": "0"
   },
   {
     "id": 2,
     "name": "Muzzarella",
     "price": 400,
     "description": "Pizza Muzzarella",
-    "categoryId": 1
+    "categoryId": 1,
+    "returnCode": "0"
   },
   {
     "id": 3,
     "name": "Jamon",
     "price": 415,
     "description": "Pizza Muzzarella y Jamon",
-    "categoryId": 1
+    "categoryId": 1,
+    "returnCode": "0"
   },
   {
     "id": 4,
     "name": "Napolitana",
     "price": 430,
     "description": "Pizza Napolitana",
-    "categoryId": 1
+    "categoryId": 1,
+    "returnCode": "0"
   },
   {
     "id": 5,
     "name": "provenzal",
     "price": 450,
     "description": "Pizza Provenzal",
-    "categoryId": 1
+    "categoryId": 1,
+    "returnCode": "0"
   },
   {
     "id": 6,
@@ -96,17 +101,20 @@
     {
       "id": "1",
       "name": "Pizza",
-      "description": "Pizzas a la piedra"
+      "description": "Pizzas a la piedra",
+      "returnCode": "0"
     }, 
     {
       "id": "2",
       "name": "Arepa",
-      "description": "Arepas Venezolanas"
+      "description": "Arepas Venezolanas",
+      "returnCode": "0"
     },
     {
       "id": "3",
       "name": "Empanada",
-      "description": "Empanadas Tucumanas"
+      "description": "Empanadas Tucumanas",
+      "returnCode": "0"
     }
   ]
 }
