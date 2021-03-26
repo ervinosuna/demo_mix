@@ -1,0 +1,112 @@
+{
+  "Sabores": [
+    {
+    "id": 1,
+    "name": "Anchoas",
+    "price": 420,
+    "description": "Pizza Anchoas",
+    "categoryId": 1
+  },
+  {
+    "id": 2,
+    "name": "Muzzarella",
+    "price": 400,
+    "description": "Pizza Muzzarella",
+    "categoryId": 1
+  },
+  {
+    "id": 3,
+    "name": "Jamon",
+    "price": 415,
+    "description": "Pizza Muzzarella y Jamon",
+    "categoryId": 1
+  },
+  {
+    "id": 4,
+    "name": "Napolitana",
+    "price": 430,
+    "description": "Pizza Napolitana",
+    "categoryId": 1
+  },
+  {
+    "id": 5,
+    "name": "provenzal",
+    "price": 450,
+    "description": "Pizza Provenzal",
+    "categoryId": 1
+  },
+  {
+    "id": 6,
+    "name": "carne",
+    "price": 200,
+    "description": "Arepa de Carne Esmechada",
+    "categoryId": 2
+  },
+  {
+    "id": 7,
+    "name": "jamon y queso",
+    "price": 190,
+    "description": "Arepa de jamon y queso",
+    "categoryId": 2
+  },
+   {
+    "id": 8,
+    "name": "Reina pepeada",
+    "price": 250,
+    "description": "Arepa de reina pepeada",
+    "categoryId": 2
+  },
+  {
+   "id": 9,
+   "name": "queso amarillo",
+   "price": 180,
+   "description": "Arepa de queso amarillo",
+   "categoryId": 2
+ },
+ {
+  "id": 10,
+  "name": "carne",
+  "price": 80,
+  "description": "Empanada de carne pizada a cuchillo",
+  "categoryId": 3
+},
+ {
+  "id": 11,
+  "name": "jamon",
+  "price": 70,
+  "description": "Empanada Jamon",
+  "categoryId": 3
+},
+{
+ "id": 12,
+ "name": "queso",
+ "price": 60,
+ "description": "Empanada de queso",
+ "categoryId": 3
+},
+{
+ "id": 13,
+ "name": "queso y jamon",
+ "price": 65,
+ "description": "Empanada de queso y jamon",
+ "categoryId": 3
+}  
+],
+  "Comidas": [
+    {
+      "id": "1",
+      "name": "Pizza",
+      "description": "Pizzas a la piedra"
+    }, 
+    {
+      "id": "2",
+      "name": "Arepa",
+      "description": "Arepas Venezolanas"
+    },
+    {
+      "id": "3",
+      "name": "Empanada",
+      "description": "Empanadas Tucumanas"
+    }
+  ]
+}
